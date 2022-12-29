@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">wspNew</string>
+    <string-array name="userTypes">
+        <item>Student</item>
+        <item>Admin</item>
+        <item>Manager</item>
+        <item>Teacher</item>
+        <item>Librarian</item>
+    </string-array>
+    <string-array name="genders">
+        <item>MALE</item>
+        <item>FEMALE</item>
+        <item>OTHER</item>
+        <item>WALMART_BAG</item>
+    </string-array>
+    <string-array name="test">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>desc1</item>
+        <item>desc2</item>
+        <item>desc3</item>
+    </string-array>
+    <string name="edittext_hint"><font size="15">Employee Salary</font></string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/addCoursesToStudent"
+        android:title="Add courses to student" />
+    <item
+        android:id="@+id/addCoursesToTeacher"
+        android:title="Add courses to teacher" />
+    <item
+        android:id="@+id/openRegistration"
+        android:title="Open/Close registration" />
+    <item
+        android:id="@+id/addLessons"
+        android:title="Add Lessons" />
+    <item android:title="Logout"
+        android:id="@+id/logout"/>
+</menu>

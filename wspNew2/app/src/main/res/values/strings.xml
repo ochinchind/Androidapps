@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">wspNew</string>
+    <string-array name="userTypes">
+        <item>Student</item>
+        <item>Admin</item>
+        <item>Manager</item>
+        <item>Teacher</item>
+        <item>Librarian</item>
+    </string-array>
+    <string-array name="genders">
+        <item>MALE</item>
+        <item>FEMALE</item>
+        <item>OTHER</item>
+        <item>WALMART_BAG</item>
+    </string-array>
+    <string-array name="test">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>desc1</item>
+        <item>desc2</item>
+        <item>desc3</item>
+    </string-array>
+    <string name="edittext_hint"><font size="15">Employee Salary</font></string>
+    <string name="title_activity_manage_news">ManageNewsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
